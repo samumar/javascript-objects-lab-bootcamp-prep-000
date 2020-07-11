@@ -20,4 +20,4 @@ function deleteFromObjectByKey(object, key) {
   return newObj;
 }
 
-deleteFromObjectByKey()
+deleteFromObjectByKey(obj, 'prop');
